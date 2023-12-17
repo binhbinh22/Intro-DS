@@ -1,0 +1,13 @@
+Khi tiền xử lý văn bản:
+- dự liệu 2010 là các thành phố
+- không có data 2011
+- từ năm 2012 đến 2019 chia ra các tuần, tuy nhiên vẫn có những dữ liệu nhiễu là thống kê số ca mắc cả năm, cần phải loại bỏ 
+
+có những năm thu thập được cả số ca mắc ở từng thành phố theo từng tháng, có những năm không thu thập được theo thành phố, theo tháng
+
+
+Sau khi xử lý thì được 3 file
+
+file 1: chứa data về số ca mắc của từng thành phố theo từng tháng từ năm 1990-2010
+file 2: chứa data về số ca mắc của từng tháng, có số liệu về nhiệt độ từ năm 2012-2015
+file 3: chứa data số ca mắc từng tuần từ 2016-2019
